@@ -6,6 +6,9 @@ import { SiNintendo } from 'react-icons/si';
 import { BsGlobe } from "react-icons/Bs";
 import { IconType } from 'react-icons';
 
+
+
+
 interface Props { 
     platforms: Platform[]
 }
