@@ -1,7 +1,7 @@
 import thumbsUp from '../assets/transparent-thumbs-up-emoji-64869dc6651285.492712431686543814414.jpg';
 import arrow from '../assets/download.jpeg';
 import meh from '../assets/download (1).jpeg';
-import { DarkMode, Image, ImageProps, background } from '@chakra-ui/react';
+import { Image, ImageProps } from '@chakra-ui/react';
 
 interface Props { 
     rating: number;
